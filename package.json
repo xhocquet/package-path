@@ -1,13 +1,13 @@
 {
   "name": "package-path",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Return the package path of given module filename",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
   "devDependencies": {
-    "prova": "*"
+    "prova": "2.1.2"
   },
   "keywords": [
     "package",
@@ -15,7 +15,7 @@
     "root"
   ],
   "repository": {
-    "url": "git@github.com:azer/package-path.git",
+    "url": "git@github.com:xhocquet/package-path.git",
     "type": "git"
   },
   "author": "azer",
